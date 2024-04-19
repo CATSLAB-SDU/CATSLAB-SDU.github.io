@@ -2,10 +2,6 @@
 
 # 如何在调试的时候指定一个线程进行调试
 
-date：20240419
-
-author：bufanzhen
-
 # base
 
 - vscode
@@ -14,8 +10,8 @@ author：bufanzhen
 # STEP
 
 - 第一步开启调试
-- 第二部：单击右下角CUDA（0，0，0）![](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240419153248954.png)
-- 第三步：在提示的对话框中键入命令，回车![image-20240419153542271](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240419153542271.png)
+- 第二部：单击右下角CUDA（0，0，0）![](https://cdn.jsdelivr.net/gh/Kui2ei/picpic@main/image-20240419153248954.png)
+- 第三步：在提示的对话框中键入命令，回车![image-20240419153542271](https://cdn.jsdelivr.net/gh/Kui2ei/picpic@main/image-20240419153542271.png)
 
 ## 关于命令(可直接复制)
 
